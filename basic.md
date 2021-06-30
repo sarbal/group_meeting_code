@@ -1,3 +1,5 @@
+# Notes 
+
 # Running basic EGAD
 ```
 load("bin/run_GBA.Rdata")
