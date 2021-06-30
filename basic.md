@@ -1,3 +1,6 @@
+# 23/06/2021  
+ 
+
 # Running basic EGAD
 ```
 load("bin/run_GBA.Rdata")
