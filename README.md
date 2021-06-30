@@ -1,4 +1,4 @@
 # group_meeting_code
 
-[23/06/2021](basic.md)   
-[30/06/2021](extras.md)   
+EGAD part 1 [23/06/2021](basic.md)   
+Bit more EGAD and other [30/06/2021](extras.md)   
